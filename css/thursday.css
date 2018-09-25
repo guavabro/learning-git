@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", sans-serif; }
+
+.btn, .actionbtn, .disable {
+  padding: 12px 18px;
+  font-size: 14px;
+  background-color: #ffffff;
+  border: 1px solid #0064ff;
+  color: #0064ff; }
+
+.actionbtn {
+  border: none;
+  color: #ffffff;
+  background-color: #0064ff; }
+
+.disable {
+  border: none;
+  color: #ffffff;
+  background-color: #e5e5e5; }
+
+.link {
+  text-decoration: none;
+  color: #0064ff; }
+
+.container {
+  padding: 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px; }
